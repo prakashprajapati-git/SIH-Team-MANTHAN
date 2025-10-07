@@ -1,0 +1,19 @@
+# Python/Backend specific
+/backend/venv/
+/backend/__pycache__/
+/backend/*.pyc
+
+# Node/Frontend specific
+/node_modules/
+/dist/
+.env
+.env.*
+npm-debug.log*
+pnpm-debug.log*
+yarn-error.log*
+yarn.lock
+
+# Editor/OS specific
+.vscode/
+.DS_Store
+*.swp
